@@ -1,9 +1,11 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(75, 75, 75);
+    font-family: sans-serif;
 }
 
 div h1{
     width: 200px;
+    font-family: sans-serif;
 }
 
 
@@ -21,13 +23,13 @@ div h1{
 }
 
 #poster1{
-    background-color: blue;
+    background-color: rgb(233, 218, 10);
 }
 
 #poster2{
-    background-color: blue;
+    background-color: rgb(233, 218, 10);
 }
 
 #poster3{
-    background-color: blue;
+    background-color: rgb(233, 218, 10);
 }
